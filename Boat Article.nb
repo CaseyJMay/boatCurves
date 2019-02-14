@@ -1,0 +1,83 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 11.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      2574,         73]
+NotebookOptionsPosition[      1946,         53]
+NotebookOutlinePosition[      2403,         71]
+CellTagsIndexPosition[      2360,         68]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Mathematical Determination of Righting Moment vs Heel Angle", "Section",
+ CellChangeTimes->{
+  3.7590742782619*^9, {3.759074313169301*^9, 
+   3.759074335835144*^9}},ExpressionUUID->"8915ffb9-5760-453b-9ebf-\
+c526394626e6"],
+
+Cell[BoxData[
+ FormBox[
+  RowBox[{"Nathan", " ", "Weil"}], TraditionalForm]], "Equation",
+ CellChangeTimes->{{3.759074338156526*^9, 
+  3.759074342776907*^9}},ExpressionUUID->"be6f1044-ff4a-43e4-9578-\
+002b82f815e4"],
+
+Cell["\<\
+In order to find the Angle of Vanishing Stability (AVS) of our boat design, \
+we had to first calculate net torque on the boat at different heel angles. \
+The AVS is the angle at which a boat cannot return itself to upright, and \
+flips upside down. Due to its design, a boat\[CloseCurlyQuote]s buoyant force\
+\
+\>", "Text",
+ CellChangeTimes->{{3.759075692586584*^9, 3.75907570958805*^9}, {
+  3.7590761241285133`*^9, 3.759076160825129*^9}, {3.759076374984193*^9, 
+  3.7590763766007557`*^9}, {3.759076450632821*^9, 3.759076456568284*^9}, {
+  3.759076706968079*^9, 3.759076731339427*^9}, {3.759076886517673*^9, 
+  3.7590768903763847`*^9}, {3.759076935708199*^9, 3.759076966307637*^9}, {
+  3.759077126648438*^9, 3.759077149145149*^9}, {3.7590774640366497`*^9, 
+  3.759077479179364*^9}, {3.7590775247613564`*^9, 
+  3.759077600033741*^9}},ExpressionUUID->"98429810-b65f-4099-92fe-\
+e51c0e93308d"]
+}, Open  ]]
+},
+WindowSize->{808, 911},
+WindowMargins->{{Automatic, 36}, {Automatic, 24}},
+Magnification:>1.25 Inherited,
+FrontEndVersion->"11.3 for Mac OS X x86 (32-bit, 64-bit Kernel) (March 5, \
+2018)",
+StyleDefinitions->FrontEnd`FileName[{"Article"}, "JournalArticle.nb", 
+  CharacterEncoding -> "UTF-8"]
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 228, 4, 60, "Section",ExpressionUUID->"8915ffb9-5760-453b-9ebf-c526394626e6"],
+Cell[811, 28, 215, 5, 34, "Equation",ExpressionUUID->"be6f1044-ff4a-43e4-9578-002b82f815e4"],
+Cell[1029, 35, 901, 15, 66, "Text",ExpressionUUID->"98429810-b65f-4099-92fe-e51c0e93308d"]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
+
